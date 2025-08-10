@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "item_1",
+      "name": "AA Batteries Pack",
+      "category": "Electronics",
+      "quantity": 120,
+      "price": 4.55,
+      "status": "In Stock",
+      "description": "Standard AA alkaline batteries, pack of 10."
+    },
+    {
+      "id": "item_2",
+      "name": "Notebook A4",
+      "category": "Stationery",
+      "quantity": 45,
+      "price": 2,
+      "status": "Low",
+      "description": "200 pages ruled notebook."
+    },
+    {
+      "id": "item_3",
+      "name": "Mouse Wireless",
+      "category": "Electronics",
+      "quantity": 8,
+      "price": 12.99,
+      "status": "Low",
+      "description": "2.4GHz wireless mouse."
+    },
+    {
+      "id": "item_2wy2314qkme441vh7",
+      "name": "dfsf",
+      "category": "jhbjmb",
+      "quantity": 89,
+      "price": 899,
+      "description": "jhbmn b",
+      "status": "In Stock"
+    },
+    {
+      "id": "item_2wy23ougme44pae9",
+      "name": "sdfsd",
+      "category": "sfddsf",
+      "quantity": 12,
+      "price": 32,
+      "description": "dsfdsf",
+      "status": "Low"
+    }
+  ]
+}
